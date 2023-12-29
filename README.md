@@ -13,8 +13,4 @@ Para instalar las dependencias, utiliza el siguiente comando:
 ```bash
 pnpm i
 
-## Ejecutar
-
-```bash
-pnpm dev
 
